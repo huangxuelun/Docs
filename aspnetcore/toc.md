@@ -14,4 +14,4 @@
 # [Security](security/toc.md)
 # [Performance](performance/toc.md)
 # [Migration](migration/toc.md)
-# [Contribute](contribute/toc.md)
+# [Contribute](https://github.com/aspnet/Docs/blob/master/CONTRIBUTING.md)
